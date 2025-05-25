@@ -1,10 +1,6 @@
 <h1 align="center">¡Hola, soy Alex Lombana!</h1>
 <h3 align="center">Desarrollador Full Stack | Apasionado por la Tecnología y la Creatividad</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Entusiasta+de+la+innovación;Resiliente+y+determinado;Aprendiz+constante+y+colaborador" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🚀 Sobre mí

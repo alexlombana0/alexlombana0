@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexlombana0/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://www.linkedin.com/in/sebastian-pava-lombana-736307268 style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/alexlombana0" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />

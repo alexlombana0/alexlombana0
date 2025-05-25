@@ -14,7 +14,7 @@
 - Me apasiona crear soluciones **efectivas**, **creativas** y **escalables**.
 - Soy **resiliente**, **curioso**, **detallista** y siempre busco aprender algo nuevo.
 - Amante de la **música**, el **arte** y los **juegos**.
-- **Repositorio destacado:** [Tu Proyecto Estrella](https://github.com/alexlombana0/TU-PROYECTO) *(¡Destaca aquí tu mejor proyecto!)*
+- **Repositorio destacado:** [Tu Proyecto Estrella](https://github.com/alexlombana0/cerebro3d) *(¡Destaca aquí tu mejor proyecto!)*
 
 ---
 
